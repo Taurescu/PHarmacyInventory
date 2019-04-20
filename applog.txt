@@ -7,3 +7,6 @@ WARN    2019-04-20 14:03:38,040 [main] test.PropertiesFileLog4j  - this is a war
 DEBUG   2019-04-20 14:04:58,625 [main] test.PropertiesFileLog4j  - this is a debug log message
 INFO    2019-04-20 14:04:58,626 [main] test.PropertiesFileLog4j  - this is a information log message
 WARN    2019-04-20 14:04:58,627 [main] test.PropertiesFileLog4j  - this is a warning log message
+DEBUG   2019-04-20 14:20:25,965 [main] test.PropertiesFileLog4j  - this is a debug log message
+INFO    2019-04-20 14:20:25,966 [main] test.PropertiesFileLog4j  - this is a information log message
+WARN    2019-04-20 14:20:25,966 [main] test.PropertiesFileLog4j  - this is a warning log message
