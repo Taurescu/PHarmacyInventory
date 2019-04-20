@@ -16,5 +16,7 @@ public class PropertiesFileLog4j {
         logger.debug("this is a debug log message");
         logger.info("this is a information log message");
         logger.warn("this is a warning log message");
+
+
     }
 }
