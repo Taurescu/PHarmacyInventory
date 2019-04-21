@@ -1,4 +1,4 @@
-package test;
+package spring.test;
 
 import org.apache.log4j.Logger;
 
